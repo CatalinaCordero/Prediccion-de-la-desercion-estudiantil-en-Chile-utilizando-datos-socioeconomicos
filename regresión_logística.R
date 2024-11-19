@@ -1,5 +1,5 @@
 #Predicción de la deserción estudiantil en Chile utilizando datos socioeconómicos de la encuesta CASEN 2022
-#Por: Catalina Andrea Cordero Zurita 21057497-2, Sofía Patricia Espinoza Gajardo 211193437-9 y Arantxa Tamara Lezaeta Mac-Lean 21194726-8.
+#Por: Catalina Andrea Cordero Zurita 21057497-2, Sofía Patricia Espinoza Gajardo 21193437-9 y Arantxa Tamara Lezaeta Mac-Lean 21194726-8.
 
 #Durante décadas, estudios e investigaciones han demostrado que la deserción escolar es
 #un problema crítico y multifactorial que tiene un impacto negativo en el futuro de los
